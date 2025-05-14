@@ -1,0 +1,17 @@
+Model,Dataset,Top‑1 Acc (%),Top‑5 Acc (%)
+ResNet-34,Original,76.0,94.2
+ResNet-34,Adv Set 1,3.4,21.2
+ResNet-34,Adv Set 2,0.2,2.0
+ResNet-34,Adv Set 3,64.4,85.0
+DenseNet-121,Original,74.8,93.6
+DenseNet-121,Adv Set 1,51.4,79.0
+DenseNet-121,Adv Set 2,72.2,92.8
+DenseNet-121,Adv Set 3,70.8,92.2
+ViT-B/16,Original,91.6,99.6
+ViT-B/16,Adv Set 1,84.4,97.6
+ViT-B/16,Adv Set 2,91.0,99.2
+ViT-B/16,Adv Set 3,90.4,99.0
+MobileNetV3-Large,Original,83.8,97.0
+MobileNetV3-Large,Adv Set 1,63.4,87.8
+MobileNetV3-Large,Adv Set 2,82.0,95.4
+MobileNetV3-Large,Adv Set 3,81.0,96.8
